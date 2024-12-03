@@ -1,0 +1,12 @@
+#fortune{
+    background-color:rgb(38, 17, 231);
+    color:darkgoldenrod;
+    width: 300px;
+    height:250px;
+    border-radius:150px;
+    margin: 50px;
+    padding-top: 60px;
+    vertical-align: center;
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,40 @@
+#baby-blye-text {
+    color: cornflowerblue;
+}
+
+body {
+    background-color:greenyellow
+}
+
+.nav {
+    list-style: none;
+    text-align: center;
+}
+
+.nav li {
+    display:inline;
+    margin-right: 20px;
+}
+
+.copy {
+    background-color:blanchedalmond;
+    color:chocolate;
+    text-align: center;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color: white;
+}
+
+.background {
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRwcXc1MTljMWwzM3QyOGRqNGg3YTZicXJzbTNocGs5YnVuaGRnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8OX1iXpgYoH1wIkHE/giphy.webp");
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: repeat;
+}
+
